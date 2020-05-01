@@ -1,0 +1,157 @@
+body{
+    background-image: url(./images/bg-body.png);
+    height: 1700px;
+    font-family:"PT Sans";
+}
+
+.main-header{
+    width: 100%;
+    position: relative;
+    display: block;
+    margin: auto;
+
+}
+.main-header img{
+    position: relative;
+    display: block;
+    margin: auto;
+    border-radius:100px;
+    margin-bottom: 30px;
+    top: 15px;
+}
+.main-nav ul{
+    display: block;
+    margin: auto;
+    list-style: none;
+    position: relative;
+
+}
+.main-nav ul li{
+    display: inline;   
+}
+.main-nav li a{
+    background-color: #494949;
+    text-decoration: none;
+    position: relative;
+    float:left;
+    color: white;
+    width: 180px;
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align:center;
+    margin-bottom:20px;
+    left:18px;
+    
+}
+.banner img{
+    position: relative;
+    width: 1180px;
+    display: block;
+    margin: auto;
+    margin-bottom:20px;
+}
+.vip-products{
+    width: 100%;
+    position: relative;
+    display: block;
+    margin: auto;
+    
+}
+.product{
+    position: relative;
+    float: left;
+    width: 30%;
+    left: 100px;
+}
+
+.special{
+    position: relative;
+    left: 260px;
+    bottom: 207px;
+}
+.photo{
+    position: relative;
+    height: 203px;
+    right: 24px;
+}
+footer{
+    position: relative;
+    float: left;
+}
+
+.photo-container a{
+    color: white;
+    text-decoration: none;
+    overflow: hidden;
+    
+}
+.zoom{
+    position: relative;
+    text-transform: uppercase;
+    text-align: center;
+    float: left;
+    background-color: black;
+    opacity: 0.7;
+    padding-left: 137px;
+    padding-right: 137px;
+    right: 22px;
+    bottom: 180px;
+    
+}
+
+p{
+    position: relative;
+    color: black;
+    width: 300px;
+    right: 20px;
+    bottom: 80px;
+}
+h2{
+    position: relative;
+    right: 20px;
+    bottom: 75px;
+}
+
+.more{
+    position: relative;
+    text-decoration: none;
+    color: white;
+    padding:10px;
+    background-color: #494949;
+    bottom: 60px;
+    right: 25px;
+
+}
+footer{
+    position: relative;
+    width: 1180px;
+    background-color: #c81912;
+    height: 200px;
+    border-top-left-radius:50px;
+    border-top-right-radius:50px;
+    left: 70px;
+
+}
+.main-footer ul{
+    display: block;
+    margin: auto;
+    list-style: none;
+    position: relative;
+
+}
+.main-footer ul li{
+    display: inline;   
+}
+.main-footer li a{
+    text-decoration: none;
+    position: relative;
+    float:left;
+    color: white;
+    text-align:center;
+    margin-left: 20px;
+    border-left: 1px solid white;
+    padding: 10px;
+    left: 260px;
+    top: 100px;
+}
